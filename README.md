@@ -1,2 +1,3 @@
 # EIseg2coco
 EIseg2coco 可以将你的EIseg标注文件中的标注图片转换成coo格式的数据集
+将你的PNG数据集转换成COCO数据集 配合作者pycococreator的COCO工具使用git://github.com/waspinator/pycococreator
