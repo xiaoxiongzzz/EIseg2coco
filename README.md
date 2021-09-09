@@ -1,0 +1,2 @@
+# EIseg2coco
+EIseg2coco 可以将你的EIseg标注文件中的标注图片转换成coo格式的数据集
